@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830553855568",
+    "firebase_url": "https://loginscreen-96972.firebaseio.com",
+    "project_id": "loginscreen-96972",
+    "storage_bucket": "loginscreen-96972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830553855568:android:d0a9844dfbaf3e4ddde355",
+        "android_client_info": {
+          "package_name": "com.example.loginscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830553855568-2upab758m8mi9ibkm2qa0657dvte9cds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginscreen",
+            "certificate_hash": "a04df90c6c55b1d355e22b634a2e53c4e4f75544"
+          }
+        },
+        {
+          "client_id": "830553855568-p3pd6mt5aoqov1ea880aq6fqu1abi9ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAjOKoLkxikHAq0cgahRq-xzw_gqz0Wi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830553855568-p3pd6mt5aoqov1ea880aq6fqu1abi9ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
